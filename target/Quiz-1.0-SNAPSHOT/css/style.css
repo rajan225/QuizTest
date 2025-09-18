@@ -1,0 +1,42 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 15 Feb 2025, 9:13:57 pm
+    Author     : win 10
+*/
+*{
+    font-family: serif;
+    font-weight: 600;
+}
+#maindiv{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+  
+}
+.formdiv{
+    
+    margin-bottom: 10px;
+   /*box-shadow: 10px 10px 10px 10px #6c757d;*/
+   
+}
+.qudiv {
+    
+}
+.timediv{
+    width: 50px;
+    height: 50px;
+   
+    border-radius: 50%;
+    text-align: center;
+}
+.quno{
+    width: 50px;
+    height: 50px;
+   
+    border-radius: 50%;
+    text-align: center;
+}
